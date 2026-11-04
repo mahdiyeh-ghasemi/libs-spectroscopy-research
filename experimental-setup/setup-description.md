@@ -1,54 +1,61 @@
-
 # Experimental Setup for Laser-Induced Breakdown Spectroscopy
 
 ## 1. Experimental Overview
 
-The experimental setup was designed for laser-induced breakdown spectroscopy (LIBS), using a pulsed Nd:YAG laser to generate plasma on the surface of the investigated material.
+The experimental setup was designed for laser-induced breakdown spectroscopy (LIBS) to investigate the optical emission of laser-induced plasma generated on the surface of Cu–Al2O3 composite materials.
 
-The emitted plasma radiation was collected and transferred to a spectrometer for optical emission analysis.
+A Q-switched Nd:YAG laser operating at 1064 nm was used as the excitation source. The emitted plasma radiation was collected and transferred to a spectrometer through an optical fiber for spectral analysis.
 
 ## 2. Laser Source
 
-The laser source used in the experiment had the following specifications:
+The laser specifications used in the experiment were:
 
 | Parameter | Value |
 |---|---|
-| Laser type | Nd:YAG |
+| Laser type | Q-switched Nd:YAG |
 | Wavelength | 1064 nm |
-| Pulse duration | 6 ns |
-| Pulse energy | Approximately 10–100 mJ |
+| Pulse energy | 26.1 mJ |
+| Repetition rate | 1 Hz |
+| Pulse duration | 5 ms |
 
-## 3. Optical and Detection Components
+## 3. Sample Positioning and Optical Arrangement
 
-The experimental arrangement involved the following components:
+The investigated sample was mounted on an adjustable micrometric stage, allowing positioning along three axes (X, Y, and Z).
 
-- Nd:YAG pulsed laser
+A converging lens with a focal length of 150 mm was used to focus the laser beam onto the sample surface and establish the appropriate energy density.
+
+The experimental arrangement included:
+
+- Q-switched Nd:YAG laser
 - Beam splitter
 - Focusing lens
-- Sample under investigation
-- Optical fiber for light collection and transmission
+- Cu–Al2O3 composite sample
+- Three-axis micrometric stage
+- Optical fiber
 - Spectrometer and detector
 - Delay generator
 - Oscilloscope
 - Computer for data acquisition
-### Experimental Setup Schematic
 
-![LIBS Experimental Setup](../libs-experimental-setup.png)
+## 4. Plasma Emission Detection
 
-*Figure 1. Representative schematic of the experimental LIBS configuration.*
-## 4. Measurement Principle
+The laser pulse generated a transient plasma on the sample surface. The emitted optical radiation was collected and transferred through an optical fiber to the spectrometer.
 
-The focused laser pulse interacts with the sample surface and generates a transient plasma.
+The spectrometer had a spectral resolution of 0.44 nm.
 
-As the plasma evolves, excited species emit characteristic optical radiation.
+A delay generator controlled the detection delay, which was set to 1.5 μs.
 
-The emitted light is collected through an optical fiber and directed to the spectrometer, where the emission spectrum is recorded for subsequent analysis.
+## 5. Measurement and Spectral Analysis
 
-## 5. Research Objective
+The recorded emission spectra were analyzed to identify characteristic copper and aluminum emission lines.
 
-The experimental measurements were used to investigate plasma emission characteristics and support elemental and compositional analysis of Cu–Al2O3 composite materials.
+The observed wavelengths were compared with reference spectral data, including the NIST Atomic Spectra Database.
 
-Particular attention was given to spectral line behavior and the influence of self-absorption on quantitative measurements.
+The analysis also considered relative emission intensity, signal-to-noise ratio, and possible self-absorption effects.
+
+## 6. Research Objective
+
+The experimental measurements were conducted to investigate laser-induced plasma emission and evaluate the influence of self-absorption on quantitative compositional analysis of Cu–Al2O3 composite materials.
 
 ---
 
