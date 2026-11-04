@@ -1,0 +1,45 @@
+# Self-Absorption Analysis in LIBS
+
+## 1. Overview
+
+Self-absorption is an important phenomenon in laser-induced plasma spectroscopy that can influence the intensity and shape of observed emission lines.
+
+In LIBS, emitted radiation may be absorbed by cooler atoms of the same species in the plasma, leading to changes in the measured spectral intensity.
+
+## 2. Physical Background
+
+Self-absorption occurs when photons emitted by excited atoms are absorbed by atoms of the same element in lower energy states.
+
+This process can result in:
+
+- Reduced emission line intensity.
+- Distortion of spectral line profiles.
+- Broadening or flattening of emission peaks.
+- Deviations from expected relationships between emission intensity and elemental concentration.
+
+## 3. Relevance to Quantitative LIBS
+
+Accurate quantitative analysis requires careful consideration of self-absorption effects.
+
+If self-absorption is not accounted for, measured emission intensities may not accurately represent the elemental concentration in the investigated material.
+
+## 4. Application to Composite Materials
+
+The MSc research investigated self-absorption effects in laser-induced plasma emission during the spectroscopic analysis of Cu–Al2O3 composite materials.
+
+The objective was to improve the reliability of compositional analysis through consideration of self-absorption effects.
+
+## 5. Research Focus
+
+The investigation focused on:
+
+- The influence of self-absorption on elemental emission lines.
+- Changes in measured spectral intensities.
+- The implications of self-absorption for quantitative analysis.
+- Self-absorption correction in compositional assessment.
+
+## 6. Scope and Documentation
+
+This section documents the physical background and research motivation for investigating self-absorption in LIBS.
+
+Specific correction equations, experimental spectra, and numerical results will be added when the corresponding research data are available.
