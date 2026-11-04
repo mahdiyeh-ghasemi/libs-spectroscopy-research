@@ -1,43 +1,78 @@
-# Spectral Analysis in LIBS
+# Spectral Analysis of Cu–Al2O3 Composite Materials
 
-## Overview
+## 1. Overview
 
-This section describes the spectroscopic analysis of optical emission produced by laser-induced plasma during the LIBS measurements.
+Optical emission spectroscopy was used to investigate the plasma generated during laser-induced breakdown spectroscopy (LIBS) measurements of Cu–Al2O3 composite materials.
 
-The analysis focused on identifying characteristic elemental emission lines and examining spectral features relevant to the compositional analysis of Cu–Al2O3 composite materials.
+The recorded emission spectra were analyzed to identify characteristic atomic and ionic emission lines and investigate their spectral behavior.
 
-## Emission Line Identification
+## 2. Elemental Emission Line Identification
 
-Characteristic emission lines were investigated using reference data from the NIST Atomic Spectra Database.
+Elemental identification was performed by analyzing the recorded LIBS spectra and comparing the observed emission lines with reliable reference data, including the NIST Atomic Spectra Database.
 
-The identification process involved:
+For the Cu–Al2O3 composite sample containing 1.1 wt% Al2O3, the following emission lines were identified:
 
-- Examination of recorded optical emission spectra.
-- Identification of characteristic spectral lines.
-- Comparison of observed wavelengths with NIST reference data.
-- Evaluation of spectral features associated with the investigated material.
+### Copper (Cu I)
 
-## Spectral Behavior
+| Emission line | Wavelength (nm) |
+|---|---:|
+| Cu I | 325.07 |
+| Cu I | 465.44 |
+| Cu I | 510.93 |
+| Cu I | 515.67 |
+| Cu I | 521.99 |
+| Cu I | 578.57 |
 
-The recorded emission spectra were examined in terms of:
+### Aluminum (Al II)
 
-- Spectral line positions.
-- Relative emission intensities.
-- Line profiles and spectral features.
-- Changes in emission behavior.
+| Emission line | Wavelength (nm) |
+|---|---:|
+| Al II | 327.66 |
+| Al II | 386.48 |
+| Al II | 402.76 |
+| Al II | 459.03 |
+| Al II | 744.52 |
+| Al II | 747.24 |
 
-## Self-Absorption Effects
+Cu I represents neutral copper, whereas Al II represents singly ionized aluminum.
 
-Self-absorption was considered as an important factor affecting measured emission line intensities.
+## 3. Spectral Line Selection Criteria
 
-Its influence was investigated in the context of quantitative LIBS analysis and compositional assessment.
+The observed emission lines were evaluated using the following criteria:
 
-## Material System
+- Relatively high intensity within their respective spectral regions.
+- Wavelength agreement within the specified interval of ±0.65.
+- Signal-to-noise ratio (SNR) greater than 3 for the reported elemental data.
 
-The spectral analysis was associated with Cu–Al2O3 composite materials, including samples with an investigated Al2O3 concentration of approximately 1.1 wt%.
+These criteria were used to support the reliability of the identified spectral features.
 
-## Analysis Scope
+## 4. Relative Intensity Interpretation
 
-This document provides an overview of the spectroscopic analysis approach used in the MSc research.
+Relative intensity was considered a qualitative characteristic describing the apparent strength of emission lines within a recorded spectrum.
 
-Experimental spectra, wavelength assignments, and quantitative analysis results will be included where available.
+Since the NIST database does not provide information about the origin and experimental conditions of the relative intensity values in the measured spectrum, these values were treated as qualitative indicators rather than direct quantitative measurements.
+
+They were therefore used to describe the spectral appearance and relative prominence of emission features.
+
+## 5. Research Focus
+
+The spectral analysis focused on:
+
+- Identification of copper and aluminum emission lines.
+- Comparison of observed wavelengths with reference spectral data.
+- Evaluation of spectral line intensity and signal-to-noise ratio.
+- Investigation of plasma emission characteristics.
+- Assessment of self-absorption effects in LIBS measurements.
+- Supporting quantitative compositional analysis of Cu–Al2O3 composites.
+
+## 6. Scope of This Repository
+
+This repository documents the spectroscopic analysis and experimental research conducted as part of my MSc thesis:
+
+"Laser-Induced Micro-Plasma Spectroscopy for Quality Control of Industrial Composites with Self-Absorption Correction."
+
+The presented emission wavelengths and analysis criteria are based on the experimental research.
+
+---
+
+*This repository is intended to document the experimental methodology, spectral identification, and analysis procedures developed during my MSc research.*
