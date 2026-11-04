@@ -43,6 +43,20 @@ The optical and detection arrangement involved:
 - Oscilloscope
 - Computer-based spectral acquisition
 
+  ## Experimental Setup
+
+A pulsed Nd:YAG laser operating at 1064 nm
+was used to generate the plasma on the sample surface.
+
+### Schematic of the Experimental Setup
+
+![LIBS Experimental Setup](IMAGE_URL)
+
+*Figure 1. Representative schematic of the LIBS experimental setup.*
+
+The system included a beam splitter, focusing lens,
+optical fiber, spectrometer, detector, and other components.
+
 ## Spectral Analysis
 
 The optical emission spectra were investigated to identify characteristic elemental emission lines.
