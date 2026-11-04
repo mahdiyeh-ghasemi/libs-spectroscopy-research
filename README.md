@@ -1,9 +1,8 @@
-
 # Experimental LIBS and Optical Emission Spectroscopy
 
 ## Overview
 
-This repository documents experimental work in Laser-Induced Breakdown Spectroscopy (LIBS) and optical emission spectroscopy, with an emphasis on plasma emission analysis, elemental identification, and self-absorption effects in composite materials.
+This repository documents experimental work in Laser-Induced Breakdown Spectroscopy (LIBS) and Optical Emission Spectroscopy (OES), with an emphasis on plasma emission analysis, elemental identification, and self-absorption effects in composite materials.
 
 The work is based on my MSc research in Atomic and Molecular Physics, focusing on the application of laser-induced micro-plasma spectroscopy to the quality control of industrial composites.
 
@@ -22,7 +21,7 @@ The research focused on:
 
 ## Experimental Setup
 
-The experimental system was based on a pulsed Nd:YAG laser operating at:
+The experimental system was based on a pulsed Nd:YAG laser operating at the following specifications:
 
 | Parameter | Experimental specification |
 |---|---|
@@ -43,19 +42,11 @@ The optical and detection arrangement involved:
 - Oscilloscope
 - Computer-based spectral acquisition
 
-  ## Experimental Setup
-
-A pulsed Nd:YAG laser operating at 1064 nm
-was used to generate the plasma on the sample surface.
-
 ### Schematic of the Experimental Setup
 
 ![LIBS Experimental Setup](IMAGE_URL)
 
-*Figure 1. Representative schematic of the LIBS experimental setup.*
-
-The system included a beam splitter, focusing lens,
-optical fiber, spectrometer, detector, and other components.
+*Figure 1. Representative schematic of a laser-induced breakdown spectroscopy (LIBS) experimental setup.*
 
 ## Spectral Analysis
 
