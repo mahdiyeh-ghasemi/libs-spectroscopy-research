@@ -124,6 +124,16 @@ The main experimental and analytical activities included:
 - Investigation of self-absorption effects in plasma emission spectra.
 - Application of spectroscopic analysis to Cu–Al2O3 composite materials with different compositions.
 
+  ## Research Documentation
+
+The repository is organized into the following sections:
+
+- [Experimental Setup](experimental-setup/setup-description.md): Description of the LIBS experimental configuration and optical arrangement.
+- [Experimental Parameters](experimental-setup/experimental-parameters.md): Laser specifications, sample positioning, and measurement conditions.
+- [Spectral Analysis](spectral-analysis/README.md): Identification of characteristic copper and aluminum emission lines and spectral evaluation criteria.
+- [Self-Absorption Analysis](self-absorption-analysis/README.md): Background and research focus on self-absorption effects in LIBS.
+- [References](references/README.md): Reference resources used in the research.
+
 ---
 
 *Research area: Experimental Photonics | Laser-Induced Plasma | Optical Spectroscopy*
