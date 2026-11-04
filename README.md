@@ -99,6 +99,19 @@ This repository is intended to provide a structured record of experimental metho
 
 Experimental data, figures, and computational analysis will be added where available and appropriate.
 
+## Material System
+
+The experimental investigation focused on Cu–Al2O3 composite materials with different Al2O3 concentrations.
+
+The investigated sample compositions included:
+
+- Cu–Al2O3 composite containing 0.5 wt% Al2O3.
+- Cu–Al2O3 composite containing 1.1 wt% Al2O3.
+
+Optical emission spectra were analyzed to identify characteristic copper and aluminum emission features and investigate their behavior in the laser-induced plasma.
+
+The identified emission lines and spectral analysis criteria are documented in the [Spectral Analysis](spectral-analysis/README.md) section.
+
 ---
 
 *Research area: Experimental Photonics | Laser-Induced Plasma | Optical Spectroscopy*
