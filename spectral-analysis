@@ -1,0 +1,43 @@
+# Spectral Analysis in LIBS
+
+## Overview
+
+This section describes the spectroscopic analysis of optical emission produced by laser-induced plasma during the LIBS measurements.
+
+The analysis focused on identifying characteristic elemental emission lines and examining spectral features relevant to the compositional analysis of Cu–Al2O3 composite materials.
+
+## Emission Line Identification
+
+Characteristic emission lines were investigated using reference data from the NIST Atomic Spectra Database.
+
+The identification process involved:
+
+- Examination of recorded optical emission spectra.
+- Identification of characteristic spectral lines.
+- Comparison of observed wavelengths with NIST reference data.
+- Evaluation of spectral features associated with the investigated material.
+
+## Spectral Behavior
+
+The recorded emission spectra were examined in terms of:
+
+- Spectral line positions.
+- Relative emission intensities.
+- Line profiles and spectral features.
+- Changes in emission behavior.
+
+## Self-Absorption Effects
+
+Self-absorption was considered as an important factor affecting measured emission line intensities.
+
+Its influence was investigated in the context of quantitative LIBS analysis and compositional assessment.
+
+## Material System
+
+The spectral analysis was associated with Cu–Al2O3 composite materials, including samples with an investigated Al2O3 concentration of approximately 1.1 wt%.
+
+## Analysis Scope
+
+This document provides an overview of the spectroscopic analysis approach used in the MSc research.
+
+Experimental spectra, wavelength assignments, and quantitative analysis results will be included where available.
