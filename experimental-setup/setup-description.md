@@ -31,7 +31,11 @@ The experimental arrangement involved the following components:
 - Delay generator
 - Oscilloscope
 - Computer for data acquisition
+### Experimental Setup Schematic
 
+![LIBS Experimental Setup](../libs-experimental-setup.png)
+
+*Figure 1. Representative schematic of the experimental LIBS configuration.*
 ## 4. Measurement Principle
 
 The focused laser pulse interacts with the sample surface and generates a transient plasma.
