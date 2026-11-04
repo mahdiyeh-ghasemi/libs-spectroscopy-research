@@ -44,7 +44,7 @@ The optical and detection arrangement involved:
 
 ### Schematic of the Experimental Setup
 
-![LIBS Experimental Setup](IMAGE_URL)
+![LIBS Experimental Setup](libs-experimental-setup.png)
 
 *Figure 1. Representative schematic of a laser-induced breakdown spectroscopy (LIBS) experimental setup.*
 
