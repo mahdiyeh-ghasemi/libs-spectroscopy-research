@@ -27,3 +27,16 @@ This repository is based on experimental research conducted as part of my MSc th
 **Thesis title:**
 
 Laser-Induced Micro-Plasma Spectroscopy for Quality Control of Industrial Composites with Self-Absorption Correction.
+## Spectral Reference Database
+
+- [NIST Atomic Spectra Database](https://physics.nist.gov/asd): Reference data for atomic and ionic emission wavelengths and spectral line identification.
+
+## Research Topics
+
+The following topics provide the scientific background for this project:
+
+- Laser-Induced Breakdown Spectroscopy (LIBS)
+- Laser-induced plasma emission spectroscopy
+- Atomic and ionic emission line identification
+- Self-absorption effects in laser-induced plasma
+- Quantitative elemental analysis of composite materials
