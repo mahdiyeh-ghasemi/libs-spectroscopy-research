@@ -28,6 +28,26 @@ The spectral analysis was performed on Cu–Al2O3 composite samples with differe
 | Al | Al II | 744.52 |
 | Al | Al II | 747.24 |
 
+## 3. Emission Lines Identified in the 0.5 wt% Al2O3 Sample
+
+### Copper (Cu I)
+
+| Element | Ionization state | Wavelength (nm) |
+|---|---|---:|
+| Cu | Cu I | 324.84 |
+| Cu | Cu I | 465.40 |
+| Cu | Cu I | 510.93 |
+| Cu | Cu I | 515.67 |
+| Cu | Cu I | 522.21 |
+
+### Aluminum (Al II)
+
+| Element | Ionization state | Wavelength (nm) |
+|---|---|---:|
+| Al | Al II | 327.66 |
+| Al | Al II | 402.76 |
+| Al | Al II | 578.57 |
+
 ## 3. Spectral Identification Criteria
 
 The reported spectral lines were evaluated based on:
