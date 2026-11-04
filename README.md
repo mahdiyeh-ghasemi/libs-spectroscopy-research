@@ -112,6 +112,18 @@ Optical emission spectra were analyzed to identify characteristic copper and alu
 
 The identified emission lines and spectral analysis criteria are documented in the [Spectral Analysis](spectral-analysis/README.md) section.
 
+## Research Contributions
+
+The main experimental and analytical activities included:
+
+- Implementation and operation of a Q-switched Nd:YAG laser-based LIBS experimental setup.
+- Optical emission collection and spectroscopic detection of laser-induced plasma.
+- Identification of characteristic Cu I and Al II emission lines.
+- Comparison of observed spectral wavelengths with reference atomic data.
+- Evaluation of spectral line reliability using wavelength agreement and signal-to-noise criteria.
+- Investigation of self-absorption effects in plasma emission spectra.
+- Application of spectroscopic analysis to Cu–Al2O3 composite materials with different compositions.
+
 ---
 
 *Research area: Experimental Photonics | Laser-Induced Plasma | Optical Spectroscopy*
