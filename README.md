@@ -134,6 +134,12 @@ The repository is organized into the following sections:
 - [Self-Absorption Analysis](self-absorption-analysis/README.md): Background and research focus on self-absorption effects in LIBS.
 - [References](references/README.md): Reference resources used in the research.
 
+  ## Detailed Emission Line Data
+
+For the identified copper and aluminum emission wavelengths, sample composition details, and spectral identification criteria, see:
+
+[Identified Emission Line Data](emission-line-identification.md)
+
 ---
 
 *Research area: Experimental Photonics | Laser-Induced Plasma | Optical Spectroscopy*
